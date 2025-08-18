@@ -5,7 +5,8 @@
 ### 👨🏻‍💻 &nbsp;关于我
 
 💡 &nbsp;目前拥有全栈8年开发经验\
-✉️ &nbsp;你可以发送邮件到 JetCrab@163.com ！我会尽快回复。\
+✉️ &nbsp;开发问题可以发送邮件 WanQuant@163.com ！\
+✉️ &nbsp;其他事项 JetCrab@163.com ！我会尽快回复。\
 
 <img alt="深夜编程" src="./assets/Night-Coding.gif" align="right"/>
 
