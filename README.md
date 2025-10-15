@@ -1,4 +1,4 @@
-![Aditya Vikram Singh 的横幅](https://github.com/JetCrab/JetCrab/blob/main/assets/img.png)
+![横幅](https://github.com/JetCrab/JetCrab/blob/main/assets/img.png)
 
 <img alt="挥手" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>嗨，大家好！我是 螃蟹</h2>
 
